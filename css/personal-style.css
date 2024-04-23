@@ -8,6 +8,7 @@ img {
     object-fit: cover;
 }
 
+<<<<<<< HEAD
 .my-block {
     display: none;
 }
@@ -15,3 +16,5 @@ img {
 .visible {
     display: unset;
 }
+=======
+>>>>>>> d95c75f7921f30ebfe7f1c68e31b4c4ba4470720
