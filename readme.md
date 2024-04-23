@@ -7,10 +7,13 @@ Vi consiglio di rispolvere object-fit :occhiolino:
 
 ---ne seleziono solo una da vedere e nascondo le altre (display:none, opacity, z-index?)
 
+<<<<<<< HEAD
 --setto display-block su tutte
 
 --setto display-unset su una cosi da poter controllare l'immagine visibile
 
+=======
+>>>>>>> d95c75f7921f30ebfe7f1c68e31b4c4ba4470720
 MILESTONE 2
 Ora dobbiamo scrivere del codice che al caricamento della pagina sposti la slide attiva da quella corrente alla successiva, non pensate al click.
 Ragionate prima sul necessario. Devo recuperare un elemento specifico? Devo recuperare più elementi?
