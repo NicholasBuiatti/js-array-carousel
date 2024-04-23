@@ -1,0 +1,17 @@
+.my-container {
+    width: unset;
+}
+
+img {
+    width: 40rem;
+    height: 25rem;
+    object-fit: cover;
+}
+
+.my-block {
+    display: none;
+}
+
+.visible {
+    display: unset;
+}
